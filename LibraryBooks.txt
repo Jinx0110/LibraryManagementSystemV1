@@ -1,0 +1,11 @@
+The Great Gatsby,F. Scott Fitzgerald,Tragedy,1925-04-10
+To Kill a Mockingbird,Harper Lee,Fiction,1960-07-11
+1984,George Orwell,Dystopian Fiction,1949-06-08
+Pride and Prejudice,Jane Austen,Romance Novel,1813-01-28
+The Catcher in the Rye,J.D. Salinger,Coming-of-Age Fiction,1951-07-16
+Moby Dick,Herman Melville,Adventure Novel,1851-10-18
+War and Peace,Leo Tolstoy,Historical Fiction,1869-01-01
+The Odyssey,Homer,Epic Poetry,0800-01-01
+The Hobbit,J.R.R. Tolkien,Fantasy,1937-09-21
+Fahrenheit 451,Ray Bradbury,Dystopian Fiction,1953-10-19
+Fifth Wing,fff,Fantasy Romance,2025-05-05
