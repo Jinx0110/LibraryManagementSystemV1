@@ -1,10 +1,13 @@
 # Library Management System
+ - console application
+![]()
+
  # Notes:
 - Language: C#
 - IDE: Visual Studio
 - External Storage: local .txt File
 
-  # Functions
+ # Functions
   - Add New Book
   - View Library
   - Edit Book Information
